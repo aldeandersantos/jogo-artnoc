@@ -1,2 +1,3 @@
 # jogo artnoC
 Jogo do artnoC pretende desafiar o estudante e diverti-lo ao mesmo tempo. Destinado a alunos do 1º ano do ensino fundamental e com uma inclinação maior para aqueles com necessidades especificas de aprendizagem, o jogo busca desenvolver e aprimorar competências essenciais para a concentração e a memória, treinando lado esquerdo do cérebro. O hemisfério cerebral esquerdo se manifesta a partir do raciocínio e está diretamente associado ao controle das funções verbais incluindo a linguagem, pensamento e a memória de palavras.
+[Link para jogar](https://editor.p5js.org/aldeandertulio/full/Tp4V0eoot)
